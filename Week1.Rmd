@@ -35,7 +35,7 @@ Dr Patricia Menéndez
 knitr::include_graphics("figs/patricia.jpeg")
 ```
 
-Lecturer Department of Econometric and Business Statistics.
+Senior Lecturer Department of Econometric and Business Statistics.
 
 
 
